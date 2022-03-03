@@ -32,8 +32,9 @@ description: >-
 </style>
 <div class="grid-container">
     <div class="header">
-        <div style="display: table-cell; vertical-align: middle">
-            <img src="images/dgbowl.png" alt="dgbowl" height="120">
+        <div style="display: table-cell; vertical-align: middle; 
+        min-width: 120px; min-height: 120px; max-width: 120px; max-height: 120px">
+            <img src="images/dgbowl.png" alt="dgbowl">
         </div>
         <div style="display: table-cell; vertical-align: middle">
             <h2>: tools for digital (electro-)catalysis</h2>
@@ -41,19 +42,19 @@ description: >-
         <hr/>
     </div>
     <div class="main1">
-        <img src="images/tomato.svg" alt="tomato" height="120"/><br/>
+        <img src="images/tomato.png" alt="tomato" height="120" width="120"/><br/>
         <a href="https://dgbowl.github.io/tomato"><img src="https://badgen.net/badge/docs/dgbowl.github.io/grey?icon=firefox"></a><br/>
         <a href="https://github.com/dgbowl/tomato"><img src="https://badgen.net/github/tag/dgbowl/tomato/?icon=github"></a><br/>
         <a href="https://pypi.org/project/tomato"><img src="https://badgen.net/pypi/v/tomato/?icon=pypi"></a><br/>
     </div>
     <div class="main2">
-        <img src="images/yadg.svg" alt="yadg" height="120"/><br/>
+        <img src="images/yadg.png" alt="yadg" height="120"/><br/>
         <a href="https://dgbowl.github.io/yadg"><img src="https://badgen.net/badge/docs/dgbowl.github.io/grey?icon=firefox"></a><br/>
         <a href="https://github.com/dgbowl/yadg"><img src="https://badgen.net/github/tag/dgbowl/yadg/?icon=github"></a><br/>
         <a href="https://pypi.org/project/yadg"><img src="https://badgen.net/pypi/v/yadg/?icon=pypi"></a><br/>
     </div>
     <div class="main3">
-        <img src="images/dgpost.svg" alt="dgpost" height="120"/><br/>
+        <img src="images/dgpost.png" alt="dgpost" height="120"/><br/>
         <a href="https://dgbowl.github.io/dgpost"><img src="https://badgen.net/badge/docs/dgbowl.github.io/grey?icon=firefox"></a><br/>
         <a href="https://github.com/dgbowl/dgpost"><img src="https://badgen.net/github/tag/dgbowl/dgpost/?icon=github"></a><br/>
         <a href="https://pypi.org/project/dgpost"><img src="https://badgen.net/pypi/v/dgpost/?icon=pypi"></a><br/>
