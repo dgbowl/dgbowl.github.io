@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dgbowl
+title: ""
 tagline: "dgbowl: tools for digital (electro-)catalysis and battery materials research"
 description: >-
     Landing page of the dgbowl project, containing automation and FAIR data post 
