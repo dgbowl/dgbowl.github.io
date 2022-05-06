@@ -1,11 +1,11 @@
 ---
 layout: page
 title: dgbowl
-tagline: "dgbowl: tools for digital (electro-)catalysis"
+tagline: "dgbowl: tools for digital (electro-)catalysis and battery materials research"
 description: >-
     Landing page of the dgbowl project, containing automation and FAIR data post 
-    processing tools. Targetted at catalysis, electrocatalysis, battery testing.
-    Developed by Peter Kraus at Empa, in the lab of Corsin Battaglia.
+    processing tools. Targetted at catalysis, electrocatalysis, and battery materials
+	research. Developed by Peter Kraus at Empa, in the lab of Corsin Battaglia.
 ---
 <style>
     .header {grid-area: header;}
@@ -37,7 +37,7 @@ description: >-
             <img src="images/dgbowl.png" alt="dgbowl">
         </div>
         <div style="display: table-cell; vertical-align: middle">
-            <h2>: tools for digital (electro-)catalysis</h2>
+            <h2>: tools for digital (electro-)catalysis and battery materials research</h2>
         </div>
         <hr/>
     </div>
