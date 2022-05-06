@@ -5,7 +5,7 @@ tagline: "dgbowl: tools for digital (electro-)catalysis and battery materials re
 description: >-
     Landing page of the dgbowl project, containing automation and FAIR data post 
     processing tools. Targetted at catalysis, electrocatalysis, and battery materials
-	research. Developed by Peter Kraus at Empa, in the lab of Corsin Battaglia.
+    research. Developed by Peter Kraus at Empa, in the lab of Corsin Battaglia.
 ---
 <style>
     .header {grid-area: header;}
