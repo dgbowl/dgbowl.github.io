@@ -62,9 +62,9 @@ description: >-
     <div class="footer">
         <hr/>
         <p>
-            Developed at <img src="images/Empa.svg" alt="empa" height="20"/>,
-            <a href="https://www.empa.ch/web/s501">Lab 501: Materials for Energy Conversion</a><br/>
-            © 2021-2022
+            Developed at <a href="https://www.empa.ch/web/s501"><img src="images/Empa.svg" alt="empa" height="20"/></a>
+            and <a href="https://tu.berlin/en/concat"><img src="https://www.static.tu.berlin/fileadmin/www/_processed_/7/5/csm_1_c6141f7045.jpg" alt="concat" height="20"/></a><br/>
+            © 2021-2024
         </p>
     </div>
 </div>
